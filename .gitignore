@@ -1,0 +1,5 @@
+build/
+doc/
+.vscode/
+workspace.code-workspace
+output/
